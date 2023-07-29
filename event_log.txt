@@ -1,0 +1,2 @@
+[2023-07-29T06:15:08.698Z] GET request to /message endpoint
+[2023-07-29T06:15:08.723Z] GET request to /message endpoint
